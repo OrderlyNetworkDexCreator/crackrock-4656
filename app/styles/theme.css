@@ -94,6 +94,10 @@
   --oui-spacing-xl: 33.75rem;
 }
 
+.oui-scaffold-footer-powered-by { 
+  display: none; 
+}
+
 html, body {
   font-family: 'Lato', sans-serif !important;
   font-size: 15px !important;
@@ -107,5 +111,9 @@ html, body {
 }
 
 .oui-scaffold-footer-powered-by { 
+  display: none; 
+}
+
+.px-2 {
   display: none; 
 }
