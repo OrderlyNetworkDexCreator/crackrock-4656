@@ -105,3 +105,7 @@ html, body {
 .orderly-app-container *::after {
   font-family: 'Lato', sans-serif !important;
 }
+
+.oui-scaffold-footer-powered-by { 
+  display: none; 
+}
