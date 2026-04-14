@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "PERP_ETH_USDC,PERP_BNB_USDC,PERP_BTC_USDC,PERP_SOL_USDC,PERP_ARB_USDC,PERP_TRX_USDC,PERP_PUMP_USDC,PERP_JUP_USDC",
-  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_RESTRICTED_REGIONS": "Russia,United Arab Emirates,United Kingdom,United States,Algeria,American Samoa,Armenia,Azerbaijan,Bangladesh,Belgium,Belize,Benin,Belarus,Argentina,Equatorial Guinea,Iraq,Martinique,Mozambique,Qatar,France,Antigua and Barbuda,China,Chile,Niger,Lithuania,Netherlands,Botswana,Kuwait,Malawi,New Caledonia,New Zealand,Norway,Papua New Guinea,Rwanda,Swaziland,South Georgia and the South Sandwich Islands",
   "VITE_WHITELISTED_IPS": ""
 };
