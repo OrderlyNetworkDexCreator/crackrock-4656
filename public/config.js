@@ -37,8 +37,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PBD8RJ1CPN\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PBD8RJ1CPN');\n</script>",
   "VITE_SYMBOL_LIST": "PERP_ETH_USDC,PERP_BNB_USDC,PERP_BTC_USDC,PERP_SOL_USDC,PERP_ARB_USDC,PERP_TRX_USDC,PERP_PUMP_USDC,PERP_JUP_USDC",
-  "VITE_RESTRICTED_REGIONS": "Russia,United Arab Emirates,United Kingdom,United States,Algeria,American Samoa,Armenia,Azerbaijan,Bangladesh,Belgium,Belize,Benin,Belarus,Argentina,Equatorial Guinea,Iraq,Martinique,Mozambique,Qatar,France,Antigua and Barbuda,China,Chile,Niger,Lithuania,Netherlands,Botswana,Kuwait,Malawi,New Caledonia,New Zealand,Norway,Papua New Guinea,Rwanda,Swaziland,South Georgia and the South Sandwich Islands",
+  "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
 };
