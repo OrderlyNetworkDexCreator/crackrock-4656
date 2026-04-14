@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade crypto the smart way with CrackRock Dex — lightning-fast swaps, low fees, and total control in a secure decentralized platform.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Campaigns,Points,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Points,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
